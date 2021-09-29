@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @jose-r-morera, José Ramón Morera 
-- 👀 I’m interested in video games and technology at large
-- 🌱 I’m currently learning computer science at ULL, using C++ 
