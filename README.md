@@ -2,6 +2,19 @@
 
 Motivated Computer Science student focusing on Artificial Intelligence, with proficiency in Python and machine learning frameworks such as TensorFlow and PyTorch.
 
+[Connect with me in Linkedin](www.linkedin.com/in/josé-ramón-morera-campos-a58727254)
+
+### 1. [Degree Thesis: Time Series Weather Forecasting](https://github.com/jose-r-morera/TFG_Time_Series_Forecast)
+> A deep learning project to forecast meteorological conditions using historical time series data. This was the focus of my undergraduate thesis, where I experimented with various neural network architectures like LSTMs and GRUs to achieve accurate predictions.
+>
+> **Tech Stack:** `Python`, `TensorFlow`, `Keras`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`
+
+### 2. [FeelNet: Emotion Classifier for Reddit Comments](https://github.com/PSantanaGlez13/SI-FeelNet-Web)
+> A collaborative project that scrapes comments from Reddit, processes the text, and classifies the underlying emotion using a custom-trained neural network. The project includes a web interface to display the results.
+>
+> **Tech Stack:** `Python`, `Flask`, `Scikit-learn`, `NLTK`, `PRAW`, `Pandas`, `HTML/CSS`, `JS`
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -54,6 +67,12 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="prolog" width="40" height="40"/> 
   </a>
 </p>
 
