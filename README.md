@@ -10,7 +10,7 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
 > **Tech Stack:** `Python`, `TensorFlow`, `Keras`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`
 
 ### 2. [FeelNet: Emotion Classifier for Reddit Comments](https://github.com/PSantanaGlez13/SI-FeelNet-Web)
-> A collaborative project that scrapes comments from Reddit, processes the text, and classifies the underlying emotion using a custom-trained neural network. The project includes a web interface to display the results.
+> A group project that scrapes comments from Reddit, processes the text, and classifies the underlying emotion using a custom-trained neural network. The project includes a web interface to display the results.
 >
 > **Tech Stack:** `Python`, `Flask`, `Scikit-learn`, `NLTK`, `PRAW`, `Pandas`, `HTML/CSS`, `JS`
 
