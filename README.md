@@ -79,4 +79,4 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-r-morera&show_icons=true&locale=en&layout=compact&hide=makefile&langs_count=10" alt="jose-r-morera programming languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-r-morera&show_icons=true&locale=en&layout=compact&hide=makefile,jupyter%20notebook&langs_count=14" alt="jose-r-morera programming languages" /></p>
