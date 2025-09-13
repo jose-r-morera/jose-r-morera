@@ -4,13 +4,13 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
 
 [Connect with me in Linkedin](www.linkedin.com/in/josé-ramón-morera-campos-a58727254)
 
-### 1. [Degree Thesis: Time Series Weather Forecasting](https://github.com/jose-r-morera/TFG_Time_Series_Forecast)
+### 1. [Degree Thesis: Weather Time Series Forecasting](https://github.com/jose-r-morera/TFG_Time_Series_Forecast)
 > A deep learning project to forecast meteorological conditions using historical time series data. This was the focus of my undergraduate thesis, where I experimented with various neural network architectures like LSTMs and GRUs to achieve accurate predictions.
 >
-> **Tech Stack:** `Python`, `TensorFlow`, `Keras`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`
+> **Tech Stack:** `Python`, `TensorFlow`, `Keras`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Docker`
 
 ### 2. [FeelNet: Emotion Classifier for Reddit Comments](https://github.com/PSantanaGlez13/SI-FeelNet-Web)
-> A group project that scrapes comments from Reddit, processes the text, and classifies the underlying emotion using a custom-trained neural network. The project includes a web interface to display the results.
+> A group project that, for a given topic or keyword, scrapes relevant comments from Reddit, processes the text, and classifies the underlying emotion using a custom-trained neural network. The project includes a web interface to display the results.
 >
 > **Tech Stack:** `Python`, `Flask`, `Scikit-learn`, `NLTK`, `PRAW`, `Pandas`, `HTML/CSS`, `JS`
 
@@ -74,6 +74,9 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="prolog" width="40" height="40"/> 
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-r-morera&show_icons=true&locale=en&layout=compact&hide=makefile&langs_count=10" alt="jose-r-morera programming languages" /></p>
