@@ -76,7 +76,10 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-</a>
+  </a>
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> 
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-r-morera&show_icons=true&locale=en&layout=compact&hide=makefile,jupyter%20notebook&langs_count=14" alt="jose-r-morera programming languages" /></p>
