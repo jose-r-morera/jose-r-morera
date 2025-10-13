@@ -14,6 +14,14 @@ Motivated Computer Science student focusing on Artificial Intelligence, with pro
 >
 > **Tech Stack:** `Python`, `Flask`, `Scikit-learn`, `NLTK`, `PRAW`, `Pandas`, `HTML/CSS`, `JS`
 
+### 3. [Insurance Cross Sell: Unbalanced Classification](https://github.com/jose-r-morera/TID-Insurance-Cross-Sell/tree/advanced-classification)
+> A group project from some years ago that I picked up recently to improve with the new knowledge I gained from my master.
+> Tackles the classification task from an insurance dataset. Faces a heavy unbalanced class problem, whih I resolve using several techniques like
+> undersampling, using weights and appropiate metrics like FocalLoss. Some interest tools used are model encodings for categoric features or
+> model recalibration for better alligning the outputs with reality.
+>
+> **Tech Stack:** `Python`, `Pytoch`, `Scikit-learn`, `Pandas`
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
