@@ -1,6 +1,6 @@
 👋 Hi, I’m @jose-r-morera, José Ramón Morera 
 
-Motivated Computer Science student focusing on Artificial Intelligence, with proficiency in Python and machine learning frameworks such as TensorFlow and PyTorch.
+Computer Scientist, currently pursuing an MSc in Artificial Intelligence, with proficiency in Python and machine learning frameworks such as TensorFlow and PyTorch.
 
 [Connect with me in Linkedin](www.linkedin.com/in/josé-ramón-morera-campos-a58727254)
 
