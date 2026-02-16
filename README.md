@@ -62,5 +62,6 @@ I’m a Computer Scientist currently pursuing an MSc in Artificial Intelligence.
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>  
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-r-morera&show_icons=true&locale=en&layout=compact&hide=makefile,jupyter%20notebook&langs_count=14" alt="jose-r-morera programming languages" /></p>
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics">
+</p>
